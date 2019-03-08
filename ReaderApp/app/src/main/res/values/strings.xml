@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReaderApp</string>
+
+    <string name="title">မေဟာ္သဓာ</string>
+    <string name="popular">လူႀကိဳက္မ်ားေသာ</string>
+    <string name="see_more"><u>အကုန္ျပ</u></string>
+    <string name="new_arrival">အသစ္ထြက္</string>
+    <string name="new_arrival_title">အနာဂတ္ ကုမဏီ လီမိတက္ (မင္းလူ)</string>
+    <string name="new_arrival_description">တစ္ႏွစ္တာအတြင္း အေအာင္ျမင္ဆံုး ကုမဏီ ဆုကို ၃ ႏွစ္ဆက္တိုက္ ရရွိခဲ႔ၿပီး ျဖစ္သည္ ။ ေနာက္ႏွစ္ေတြလည္း ဆက္ၿပီး ရဖို႔ အလားအလာ ေကာင္းေနသည္ ။ အျမတ္ ရာခိုင္ႏွဳန္းကလည္း တရွိန္ထိုး တိုးတက္ ေနလ်ွက္ရွိေသာေၾကာင့္ ဆက္လက္ၿပီး လည္ပတ္ေနမည္။</string>
+    <string name="new_arrival_feedback">စာဖတ္သူ : <b>43 ဦး</b> ေပးပို႔သူ : <b>18 ဦး</b></string>
+
+</resources>
